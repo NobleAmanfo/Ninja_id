@@ -16,10 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
                                                     SCREENSHOT
-![Screenshot_1590856293](https://user-images.githubusercontent.com/67824486/91398359-d99ad300-e833-11ea-8748-e60fc61fdcf7.png){:height="50%" width="50%"}
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67824486/91398359-d99ad300-e833-11ea-8748-e60fc61fdcf7.png" width="250" hspace="4">
-  <img src="https://itsallwidgets.com/screenshots/app-1558-2.png" width="250" hspace="4">
-  
 </p>
