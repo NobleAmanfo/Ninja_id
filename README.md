@@ -1,4 +1,4 @@
-# amanfo
+# Noble Amanfo
 
 A new Flutter application.
 
@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-                                                          SCREENSHOT 
+SCREENSHOT 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67824486/91398359-d99ad300-e833-11ea-8748-e60fc61fdcf7.png" width="250" hspace="4">
 </p>
